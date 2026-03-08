@@ -22,7 +22,9 @@ The simulator allows users to **experiment with market sentiment and observe how
 
 ---
 
-# 🎬 Demo
+# 🎬 Screenshot
+
+<img width="991" height="591" alt="image" src="https://github.com/user-attachments/assets/ccb4373a-03d9-4d51-a86f-69e033c95f9c" />
 
 ---
 
